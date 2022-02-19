@@ -1,7 +1,7 @@
 # notesapp
 This is android application which contains basic notes app using ListView.
 
-Topic Learned
+Android Concept Covered 
 
 	- Change app logo
 	- Use custom font
